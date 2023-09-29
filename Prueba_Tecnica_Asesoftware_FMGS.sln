@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prueba_Tecnica_Asesoftware_FMGS.API", "Prueba_Tecnica_Asesoftware_FMGS.API\Prueba_Tecnica_Asesoftware_FMGS.API.csproj", "{79D94E31-1B6A-4894-8555-344C64692626}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prueba_Tecnica_Asesoftware_FMGS.DA", "Prueba_Tecnica_Asesoftware_FMGS.DA\Prueba_Tecnica_Asesoftware_FMGS.DA.csproj", "{29191F0B-D26A-46DE-B162-EBAD1A8BC3A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79D94E31-1B6A-4894-8555-344C64692626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79D94E31-1B6A-4894-8555-344C64692626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79D94E31-1B6A-4894-8555-344C64692626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79D94E31-1B6A-4894-8555-344C64692626}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29191F0B-D26A-46DE-B162-EBAD1A8BC3A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29191F0B-D26A-46DE-B162-EBAD1A8BC3A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29191F0B-D26A-46DE-B162-EBAD1A8BC3A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29191F0B-D26A-46DE-B162-EBAD1A8BC3A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F92C887D-A9D5-4B04-AEEF-19EB727917C4}
+	EndGlobalSection
+EndGlobal
